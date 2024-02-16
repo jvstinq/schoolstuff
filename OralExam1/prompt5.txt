@@ -1,0 +1,23 @@
+Alabama,57761  
+Alaska,10086  
+Arizona,80723  
+Arkansas,37018  
+California,454920  
+Colorado,62885  
+Connecticut,34725  
+Delaware,10621  
+District of Columbia,9212  
+Florida,221542  
+Georgia,126172  
+Hawaii,16972  
+Idaho,21403  
+Illinois,144815  
+Indiana,81646  
+Iowa,37785  
+Kansas,36261  
+Kentucky,53922  
+Louisiana,59615  
+Maine,12311  
+Maryland,71080  
+Massachusetts,69109  
+Michigan,110032

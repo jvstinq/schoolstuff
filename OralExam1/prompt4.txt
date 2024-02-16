@@ -1,0 +1,15 @@
+Famous cereals and calories:
+Froot Loops 120  Apple Jacks 120  Corn 
+Flakes 100  Corn Pops 120  
+Raisin Bran 190  Frosted Flakes 110  
+Fiber one 60  
+Rice Chex 100  
+Wheat Chex 160  
+Reeses Puffs 120  Cocoa Puffs 110  
+Golden Grahams 120  Oreo Os 110  
+Honey Smacks 100  Rice Krispies 120 
+Healthy Heart 230  Special K 120  
+Frosted Krispies 110  Lucky Charms 110  
+Corn Chex 120  
+Cookie Crisp 100  Cinnamon Toast 130  
+Shredded Wheat 200  Waffle Crisp 120
